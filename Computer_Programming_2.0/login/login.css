@@ -1,0 +1,26 @@
+body {
+        background-color: #f7f7f7;
+}
+
+fieldset {
+    margin: 0px 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    display: flexbox;
+}
+legend {
+    /*fonts*/
+    font-size: 30px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: wider;
+    color:rgb(85, 87, 87);
+}
+.form {
+    font-family:Helvetica, Arial, sans-serif;
+    color: rgb(85, 87, 87);
+    font-weight: bold;
+    display: inline-block;
+}
